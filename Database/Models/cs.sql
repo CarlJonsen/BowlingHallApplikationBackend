@@ -1,0 +1,4 @@
+﻿CREATE TABLE [Account].[cs]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
